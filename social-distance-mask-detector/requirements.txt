@@ -1,0 +1,5 @@
+ultralytics	--- YOLOv8 modeli için Ultralytics paketi     --- pip install ultralytics
+
+opencv-python ---	Görüntü işleme (kamera ve çizimler)   ---	pip install opencv-python
+
+numpy --- 	Matematiksel işlemler ve array desteği  --- pip install numpy
